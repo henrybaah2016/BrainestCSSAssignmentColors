@@ -1,0 +1,16 @@
+.one{
+    color: gold;
+}
+.two{
+    color: #f00ddd
+}
+.three{
+    color: rgb(5, 252, 252);
+}
+.four{
+    color: hsl(129deg 86% 48%);
+}
+#headerBackground{
+    background-color: hsl(220deg 50% 32%);
+    padding: 20px;
+}
